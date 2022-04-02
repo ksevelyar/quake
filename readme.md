@@ -1,7 +1,6 @@
 # [Quake](https://github.com/Novum/vkQuake)
 
 ![](id1/id1.png)
-![](ad/ad.png)
 
 ## Install
 
