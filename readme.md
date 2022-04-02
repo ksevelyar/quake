@@ -72,6 +72,10 @@ Each folder a playable game and a parameter to `vkquake`:
 * `vkquake` quake (uses `id1`)
 * `vkquake -game hipnotic` Mission Pack 1: Scourge of Armagon
 * `vkquake -game rogue` Mission Pack 2: Dissolution of Eternity
-* `vkquake -game dopa` Dimension of the past 
+* `vkquake -game dopa` Dimension of the Past 
 * `vkquake -game mg1` Dimension of the Machine 
 * `vkquake -game ad` [Arcane Dimensions](https://www.moddb.com/mods/arcane-dimensions) 
+
+## Music
+
+To test in-game music open console with `~` and enter `music track02`
