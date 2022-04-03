@@ -1,5 +1,7 @@
 # [Quake](https://github.com/Novum/vkQuake)
 
+For people who prefer vkQuake over Kex.
+
 ![](id1/id1.png)
 
 ## Install
