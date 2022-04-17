@@ -7,7 +7,7 @@ For people who prefer vkQuake over Kex.
 ## Install
 
 1. `direnv allow`
-2. Install [2021 re-release from Steam](https://store.steampowered.com/app/2310/QUAKE/) using Windows, copy `rerelease` content (dopa, id1, hipnotic, mg1, rogue) to this repo.
+2. Install [2021 re-release from Steam](https://store.steampowered.com/app/2310/QUAKE/) using [Proton](https://itsfoss.com/steam-play/), copy `rerelease` content (`dopa`, `hipnotic`, `id1`, `mg1`, `rogue`) to root of this repo.
 3. Download and extract [Arcane Dimensions](https://www.moddb.com/mods/arcane-dimensions) to `ad`
 
 ```
